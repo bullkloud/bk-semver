@@ -1,2 +1,2 @@
 # bk-semver
-bk-semver test feat
+bk-semver test feat2
